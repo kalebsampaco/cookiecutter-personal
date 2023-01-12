@@ -1,7 +1,7 @@
 # Cookiecuter Personal
 
 <!-- badges: start -->
-[![@kalebsampaco](https://img.shields.io/badge/@jvelezmagic-Sitio_personal-blue?&logoColor=white)](https://github.com/kalebsampaco) 
+[![@kalebsampaco](https://img.shields.io/badge/@kalebsampaco-github-blue?&logoColor=white)](https://github.com/kalebsampaco) 
 
 <!-- badges: end -->
 
@@ -40,9 +40,12 @@ cookiecutter https://github.com/kalebsampaco/cookiecutter-personal --checkout co
         │   ├── processed      <- The final, canonical data sets for modeling.
         │   └── raw            <- The original, immutable data dump.
         │
-        ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-        │                         the creator's initials, and a short `-` delimited description, e.g.
+        ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering), `-` delimited description, e.g.
         │                         `1.0-jvelezmagic-initial-data-exploration`.
+        ├── outputs          <- outputs of project,
+        ├── reports          <- reports of project,
+        ├── src          <- data source,
+        │                         the creator's initials, and a short 
         │
         ├── .gitignore         <- Files to ignore by `git`.
         │
