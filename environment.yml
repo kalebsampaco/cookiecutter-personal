@@ -1,0 +1,22 @@
+name: cookiecutter-personal
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+  - conda
+  - python=3.9
+  - menuinst
+  - console_shortcut
+  - powershell_shortcut
+  - conda-env
+  - conda-build
+  - conda-verify
+  - _ipyw_jlab_nb_ext_conf
+  - anaconda==2021.11=py39_0
+  - anaconda-navigator==2.1.2
+  - navigator-updater
+  - prompt-toolkit
+  - botocore
+prefix: C:\Users\kaleb\anaconda3
