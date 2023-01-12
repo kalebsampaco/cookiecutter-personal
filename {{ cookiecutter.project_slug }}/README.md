@@ -1,4 +1,4 @@
-# Cookiecuter Personal Platzi
+# Cookiecuter Personal
 
 <!-- badges: start -->
 [![@kalebsampaco](https://img.shields.io/badge/@jvelezmagic-Sitio_personal-blue?&logoColor=white)](https://github.com/kalebsampaco) 
@@ -29,7 +29,7 @@ conda install -c conda-forge cookiecutter
 En el directorio en el que quieras guardar tu proyecto generado:
 
 ```bash
-cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout cookiecutter-personal-platzi
+cookiecutter https://github.com/kalebsampaco/cookiecutter-personal --checkout cookiecutter-personal
 ```
 
 
